@@ -1,10 +1,7 @@
-Claro! Com base na estrutura do repositório [marianaleite003/gr-oealma](https://github.com/marianaleite003/gr-oealma), que inclui arquivos HTML, CSS e JavaScript para páginas como `index.html`, `products.html` e `about.html`, aqui está uma sugestão de README em Markdown para documentar o projeto:
 
----
+# ☕ GRÃO E ALMA
 
-# 🌐 GR-OEALMA
-
-**GR-OEALMA** é um projeto web desenvolvido com o objetivo de praticar e demonstrar habilidades em desenvolvimento front-end. O site apresenta uma estrutura de páginas estáticas que simulam uma aplicação web com foco em produtos e informações institucionais.
+**GRÃO E ALMA** é um projeto web desenvolvido com o objetivo de praticar e demonstrar habilidades em desenvolvimento front-end. O site apresenta uma estrutura de páginas estáticas que simulam uma aplicação web com foco em produtos e informações institucionais.
 
 ## 📄 Visão Geral
 
@@ -30,18 +27,8 @@ Os arquivos de estilo e scripts estão organizados nas pastas:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/marianaleite003/gr-oealma.git
+   https://marianaleite003.github.io/gr-oealma/index.html
    ```
-
-
-
-2. Navegue até o diretório do projeto:
-
-   ```bash
-   cd gr-oealma
-   ```
-
-
 
 3. Abra o arquivo `index.html` em seu navegador preferido para iniciar a navegação pelo site.
 
