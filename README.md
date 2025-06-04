@@ -27,7 +27,7 @@ Os arquivos de estilo e scripts estão organizados nas pastas:
 1. Clone o repositório:
 
    ```bash
-   https://marianaleite003.github.io/gr-oealma/index.html
+   https://marianaleite003.github.io/graoealma/index.html
    ```
 
 3. Abra o arquivo `index.html` em seu navegador preferido para iniciar a navegação pelo site.
